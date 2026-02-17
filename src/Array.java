@@ -9,4 +9,5 @@ public class Array {
         //Search: O(n)
         //update: O(1)
         return;
+    }
 }

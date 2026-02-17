@@ -9,6 +9,6 @@ public class TwoSum_LC01 {
             }
             map.put(nums[i], i);
         }
-        return new int[0];
+        return new int[0];//新的注释
     }
 }
